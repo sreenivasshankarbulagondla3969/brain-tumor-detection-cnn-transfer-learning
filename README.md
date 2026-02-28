@@ -7,9 +7,7 @@ The objective is to build an automated medical image classification model that c
 - Transfer Learning using EfficientNetB0
 
 ## Problem Statement
-Brain tumors are life-threatening and require early and accurate diagnosis. Manual MRI analysis can be time-consuming and prone to human error. This project aims to develop a deep learning-based automated classification system for detecting brain tumors from MRI scans to improve diagnostic efficiency and reliability.
-
-## Methodology
+Brain tumors are serious neurological conditions that require early and accurate diagnosis for effective treatment. Manual analysis of MRI scans can be time-consuming and dependent on clinical expertise. Therefore, there is a need for an automated and reliable deep learning-based system to assist in accurate brain tumor detection from MRI images.
 
 ### Data Preprocessing
 - Image resizing  
