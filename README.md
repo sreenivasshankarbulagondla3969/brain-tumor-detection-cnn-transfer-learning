@@ -27,7 +27,7 @@ Brain tumors are serious neurological conditions that require early and accurate
 - MaxPooling layers  
 - Fully connected layers  
 - Sigmoid/Softmax output layer
-- 
+  
 #### Transfer Learning (EfficientNetB0)
 - Pre-trained EfficientNetB0 model  
 - Feature extraction  
